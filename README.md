@@ -3,7 +3,7 @@
 Full-stack web application for a local grocery store that sells producers' goods. Producers submit batches of products, managers validate and track them, customers reserve products online, and volunteers handle reservations and in-store sales.
 
 > **Context:** team project (group 03) built during the CAE course at University College Vinci, Brussels (2025).
-> It was originally developed on the school's GitLab instance and migrated to GitHub to preserve it after I changed universities, which is why the history shows a single import commit.
+> It was originally developed on the school's GitLab instance and migrated to GitHub to preserve it after I changed universities, which is why the history shows a couple of import commit.
 
 ## Features
 
